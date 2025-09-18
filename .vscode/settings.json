@@ -1,1 +1,9 @@
-{"editor.formatOnSave": true}
+{
+    "editor.formatOnSave": true,
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": [
+        "tests"
+    ]
+}
